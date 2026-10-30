@@ -12,6 +12,7 @@ let currentUser = JSON.parse(localStorage.getItem('nat_user')) || null;
 let settings = JSON.parse(localStorage.getItem('nat_settings')) || {
   whatsapp: '51945770472',
   yapePhone: '945 770 472',
+  bcp: '19111483708004',
   qr: 'qr_yape.jpeg'
 };
 
